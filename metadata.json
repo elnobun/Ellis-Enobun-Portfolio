@@ -1,0 +1,6 @@
+{
+  "name": "Ellis Enobun - Lead Frontend Developer Portfolio",
+  "description": "Interactive developer portfolio for Ellis Enobun featuring WCAG 2.1 AA accessible web projects, interactive slider, real-time validated contact form, and location coverage map.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
